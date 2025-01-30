@@ -43,20 +43,20 @@ How 'heretical' science revealed the intelligence of Nature| Monica Gagliano
 
 [TEDx Talks](https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD)
 
-Monica Gagliano Website
+Monica Gagliano's Website
 [Monica Gagliano Website](https://www.monicagagliano.com/)
 
 Monica Gagliano's TEDx Talk "How 'heretical' science revealed the intelligence of Nature" had garnered around 18,000 views.
 ["How 'heretical' science revealed the intelligence of Nature"]:https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD
 
 Book Cover: Thus Spoke the Plant
-[![Book Cover: Thus Spoke the Plant]](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
+[![Book Cover: Thus Spoke the Plant](BookCover.jpg)](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
 
 # Task 5:Images
 Book Cover:
 "Thus Spoke the Plant: A Remarkable Journey of Ground Breaking Scientific Discoveries & Personal Encounters with Plants"
 
-![Book Cover](ThusSpokethePlant.jpg)
+![Book Cover](BookCover.jpg)
 
 The author: 
 Monica Galiano
@@ -70,7 +70,7 @@ Book Review
 > "A compelling story of discovery...It will change the way you see the world." - Robin Wall Kimmer, author of Braiding Sweetgrass
 
 # Task 7:Inline Code & Code Blocks
-Click to print the image of the author
+
 ```
 print ('Monica Galiano')
 ```
