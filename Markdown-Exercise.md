@@ -50,7 +50,7 @@ Monica Gagliano's TEDx Talk "How 'heretical' science revealed the intelligence o
 ["How 'heretical' science revealed the intelligence of Nature"]:https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD
 
 Book Cover: Thus Spoke the Plant
-[![Book Cover: Thus Spoke the Plant](BookCover.jpg)](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
+[![Book Cover: Thus Spoke the Plant](Amazon.jpg)](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
 
 # Task 5:Images
 Book Cover:
