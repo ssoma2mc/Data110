@@ -58,12 +58,12 @@ print (Monica Galiano)
 
 Books that provides deep insights into plant intelligence, perception, and their relationship with humans.
 
-1. The Hidden Life of Trees: What They Feel, How They Cimmunicate - Discoveries from a Secret World/Peter Wohlleben/2016/ Greystobe 
-2. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants/ Robin Wall Kimmerer/
-3. The Overstory/ Richard Powers/
-4. What a Plant Knows: A Field Guide to the Senses of Your Garden – and Beyond/ Daniel Chamovitz
-5. The Secret Life of Plants: A Fascinating Account of the Physical, Emotional, and Spiritual Relations Between Plants and Man/ Peter Tompkins and Christopher Bird/
-6. Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth/ Stephen Harrod Buhner
+1. The Hidden Life of Trees: What They Feel, How They Cimmunicate - Discoveries from a Secret World/Peter Wohlleben/ 2016/ Greystobe Books/ $18.95/ ?
+2. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants/ Robin Wall Kimmerer/2013/ Milkweed Editions/ $18.00/ >1000,000>1000,000 
+3. The Overstory/ Richard Powers/ 2018/ W.W.Norton&Company/ $17.95/ >1500,000/ Winner of Pulitzer Prize 2019
+4. What a Plant Knows: A Field Guide to the Senses of Your Garden – and Beyond/ Daniel Chamovitz/ 2012/ Scientific American / Farrar, Straus and Giroux/ $17.00/ ?
+5. The Secret Life of Plants: A Fascinating Account of the Physical, Emotional, and Spiritual Relations Between Plants and Man/ Peter Tompkins and Christopher Bird/ 1973/ Harper & Row/ $16.99/ ?
+6. Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth/ Stephen Harrod Buhner/ 2013/ Bear & Company/ $19.00
    
 
 ## Task 9:Task Lists 
