@@ -15,9 +15,11 @@
 # Task 2: Emphasis
 
 **About the book**
-*Thus Spoke the Plant* by Monica Gagliano explores groundbreaking scientific discoveries about plant intelligence and communication. Drawing on both personal encounters and extensive research, Gagliano reveals how plants perceive, learn, and respond to their environment in ways previously thought impossible. She discusses the complex relationships between humans and plants, blending science with personal anecdotes. The book challenges conventional views on plant consciousness, presenting plants as active, responsive beings. Through this journey, Gagliano encourages a deeper connection and respect for the plant world.
+
+*Thus Spoke the Plant* by Monica Gagliano explores groundbreaking scientific discoveries about plant intelligence and communication. Drawing on both personal encounters and extensive research, Gagliano reveals how plants perceive, learn, and respond to their environment in ways previously thought impossible. 
 
 **About the Author**
+
 ***Monica Galiano*** is research associate professor of evolustionary ecology and former fellow of Australian Reseach Council (2012-2015). She is currently a research affiliate at the Environment Institute at the University of Sydney and holds an adjunct position as senior research fellow the University of Western Australia.
 
 # Task 3: Lists
@@ -48,11 +50,18 @@ Monica Gagliano's TEDx Talk "How 'heretical' science revealed the intelligence o
 ["How 'heretical' science revealed the intelligence of Nature"]:https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD
 
 Book Cover: Thus Spoke the Plant
-[![Book Cover: Thus Spoke the Plant](Thus Spoke the Plant.jpg)](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
+[![Book Cover: Thus Spoke the Plant]](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
 
 # Task 5:Images
-The book: "Thus Spoke the Plant: A Remarkable Journey of Ground Breaking Scientific Discoveries & Personal Encounters with Plants"
-The author: Monica Galiano
+Book Cover:
+"Thus Spoke the Plant: A Remarkable Journey of Ground Breaking Scientific Discoveries & Personal Encounters with Plants"
+
+![Book Cover](ThusSpokethePlant.jpg)
+
+The author: 
+Monica Galiano
+
+![Monica Galiano](MonicaGagliano.jpeg)
 
 # Task 6:Blockquotes
 Book Review
