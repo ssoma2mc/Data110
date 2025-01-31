@@ -46,17 +46,14 @@ How 'heretical' science revealed the intelligence of Nature| Monica Gagliano
 Monica Gagliano's Website
 [Monica Gagliano Website](https://www.monicagagliano.com/)
 
-Monica Gagliano's TEDx Talk "How 'heretical' science revealed the intelligence of Nature" had garnered around 18,000 views.
-["How 'heretical' science revealed the intelligence of Nature"]:https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD
+Monica Gagliano's TEDx Talk ["How 'heretical' science revealed the intelligence of Nature"](https://youtu.be/5z-kZZVyHdw?si=YkhIKgNOfGyezbpD) had garnered around 18,000 views.
 
-Book Cover: Thus Spoke the Plant
-[![Book Cover: Thus Spoke the Plant](Amazon.jpg)](https://www.amazon.com/Thus-Spoke-Plant-Groundbreaking-Discoveries/dp/1623172438)
 
 # Task 5:Images
 Book Cover:
 "Thus Spoke the Plant: A Remarkable Journey of Ground Breaking Scientific Discoveries & Personal Encounters with Plants"
 
-![Book Cover](BookCover.jpg)
+<img src = "BookCover.jpg" width = "18%">
 
 The author: 
 Monica Galiano
